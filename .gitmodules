@@ -4,3 +4,12 @@
 [submodule "aipassignment"]
 	path = aipassignment
 	url = https://github.com/exiaruler/aipassignment.git
+[submodule "caculator-swift"]
+	path = caculator-swift
+	url = https://github.com/exiaruler/caculator-swift
+[submodule "MarkTree"]
+	path = MarkTree
+	url = https://github.com/tylertran0311/MarkTree.git
+[submodule "blog"]
+	path = blog
+	url = https://github.com/exiaruler/blog.git
