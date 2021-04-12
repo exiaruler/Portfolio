@@ -1,3 +1,6 @@
 [submodule "Prototyping-physical-interaction-"]
 	path = Prototyping-physical-interaction-
 	url = https://github.com/exiaruler/Prototyping-physical-interaction-
+[submodule "aipassignment"]
+	path = aipassignment
+	url = https://github.com/exiaruler/aipassignment.git
