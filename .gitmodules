@@ -13,3 +13,6 @@
 [submodule "blog"]
 	path = blog
 	url = https://github.com/exiaruler/blog.git
+[submodule "bubble_pop"]
+	path = bubble_pop
+	url = https://github.com/exiaruler/bubble_pop
