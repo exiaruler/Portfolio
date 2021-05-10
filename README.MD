@@ -6,8 +6,7 @@ This project my group we made an interactive wind charm that you can interact wi
 This project my group we made a social distancing laser tag using Arduino components from Seeduno. This project I was responsible for maintaining all the code, assemble the prototype together and group leader. 
  ## Aipassignment 
 This project my group we made were required to make a favour tracking website using Express and React that users post favours among their friends and track it from private favours to public favours.  This project I was responsible for owe favour back-end and front-end and design of the system. 
-## Blog 
-This is a personal project of mine that I am currently working on using Express and React and using typescript of a simple blog website. Currently I decided to change the authentication framework to JWT as currently it’s using the passport framework. 
+
 ## Calculator-swift 
 This is an individual assignment that require me to make a calculator that takes calculations on a console through Terminal using swift. 
 ## Testkit-master 
