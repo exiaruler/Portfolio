@@ -12,7 +12,7 @@ This project my group we made were required to make a favour tracking website us
 This project my group we made a social distancing laser tag using Arduino components from Seeduno. This project I was responsible for maintaining all the code, assemble the prototype together and group leader. 
  ## Aipassignment -2020
 This project my group we made were required to make a favour tracking website using Express and React that users post favours among their friends and track it from private favours to public favours.  This project I was responsible for owe favour back-end and front-end and design of the system. 
->>>>>>> Stashed changes
+
 ## Calculator-swift 
 This is an individual assignment that require me to make a calculator that takes calculations on a console through Terminal using swift. 
 ## Testkit-master 
