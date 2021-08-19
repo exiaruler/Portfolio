@@ -2,7 +2,8 @@
 This is my portfolio of my current and past projects I have done in my course and personal projects.
 ## Marktree -2018
 This project my group we made an interactive wind charm that you can interact with using a motion leap sensor. I was responsible for the sound of the charms. 
-
+## Blog 
+A current project I am working on for personal use. Recent changes is added styling to info pages about me as I plan to release the frontend soon and release the backend and other features later on. 
 ## Prototyping physical interaction 
 This project my group made a social distancing laser tag game using Arduino components from Seeduno. This project I was responsible for maintaining all the code, assemble the prototype together and group leader. 
  ## Aipassignment 
