@@ -3,7 +3,8 @@ This is my portfolio of my current and past projects I have done in my course an
 ## Marktree -2018
 This project my group we made an interactive wind charm that you can interact with using a motion leap sensor. I was responsible for the sound of the charms. 
 ## Blog 
-A current project I am working on for personal use. Recent changes is added styling to info pages about me as I plan to release the frontend soon and release the backend and other features later on. 
+A current project I am working on for personal use. Recently deployed my application as an R0. Blog features to deploy soon.
+https://www.nya-samuel.com/home 
 ## Prototyping physical interaction 
 This project my group made a social distancing laser tag game using Arduino components from Seeduno. This project I was responsible for maintaining all the code, assemble the prototype together and group leader. 
  ## Aipassignment 
@@ -18,3 +19,5 @@ This is an individual assignment that required me to make a simple ios game usin
 This was a group assignment that required my group to build an app that solves an existing problem. What we came up was a diet entry app that is simple for beginners that user adds what they have eaten into the app and it calculates their calories from their target goal they set to and daily intake. We use SwiftUI and Realms for this project and I was responsible for the backend of the project of Realms and interfacing with the UI.
 ## contacts
 This is a simple React frontend I completed for a skills test using a fake API and to display a list of contacts. During this project I used boostrap and react hover for the styling and functionality of the application. Features listed in the README
+## Advance Software Dev
+This group assignment that required my group to build an application based upon existing problems back in late 2021. We came up in building an online auction site for real estate similar to eBay. During this project we used Javascript frameworks Express and React.We also used mySQL and Tailwind. My role in this project was developing the user accounts and authentication.
